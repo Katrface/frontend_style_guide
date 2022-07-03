@@ -1,0 +1,25 @@
+{
+  "name": "frontend_style_guide",
+  "version": "0.1.0",
+  "description": "> Основано на [feature-sliced design](https://feature-sliced.design/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Katrface/frontend_style_guide.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Katrface/frontend_style_guide/issues"
+  },
+  "homepage": "https://github.com/Katrface/frontend_style_guide#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.19.0"
+  }
+}
