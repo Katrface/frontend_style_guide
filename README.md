@@ -5,5 +5,5 @@
 > Не претендует на истину в последней инстанции
 
 ## Оглавление
-- Рефакторинг legacy `docs/Legacy_project_refactoring.md`
-- Слой api `docs/API_layer.md`
+- [Рефакторинг legacy](docs/Legacy_project_refactoring.md)
+- [Слой api](docs/API_layer.md)
